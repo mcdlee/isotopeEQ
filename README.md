@@ -41,7 +41,7 @@ WTFPL
 
 * Half-life of Daughter Isotope: 子核半衰期
 
-* Plot from/Plot tw：繪圖開始及結束的時間點
+* Plot from/Plot to：繪圖開始及結束的時間點
 
 
 ###活度
